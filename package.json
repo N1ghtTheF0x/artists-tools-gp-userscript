@@ -1,0 +1,19 @@
+{
+  "name": "artists-tools-gp-userscript",
+  "version": "1.0.0",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "dev": "vite build --watch --mode development",
+    "build": "vite build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "packageManager": "pnpm@10.12.1",
+  "devDependencies": {
+    "typescript": "latest",
+    "vite": "latest",
+    "vite-userscript-plugin": "latest"
+  }
+}
